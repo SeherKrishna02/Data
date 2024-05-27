@@ -1,2 +1,2 @@
-devtools::install_github("tylermorganwall/rayshader")
+https://github.com/tylermorganwall/rayshader.git
 
